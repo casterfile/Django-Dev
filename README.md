@@ -29,5 +29,8 @@ Github: https://goo.gl/jPHFPe </br>
 
 //Create a Project </br>
 django-admin startproject PROJECTNAME </br>
-
+//To run the app
+python manage.py runserver
+//To View the App
+http://127.0.0.1:8000/
 
