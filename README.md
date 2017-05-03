@@ -27,8 +27,4 @@ YouTube: https://goo.gl/BFZ7C5 </br>
 StackOverFlow: https://goo.gl/J1hFqL </br>
 Github: https://goo.gl/jPHFPe </br>
 
-Run </br>
-$ nmp install</br>
-$ ionic serve</br>
-$ ionic serve --l</br>
 
