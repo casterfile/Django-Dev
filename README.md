@@ -33,4 +33,5 @@ django-admin startproject PROJECTNAME </br>
 python manage.py runserver
 //To View the App
 http://127.0.0.1:8000/
-
+//Migration
+python manage.py makemigration APPNAME
