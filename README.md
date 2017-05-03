@@ -27,4 +27,7 @@ YouTube: https://goo.gl/BFZ7C5 </br>
 StackOverFlow: https://goo.gl/J1hFqL </br>
 Github: https://goo.gl/jPHFPe </br>
 
+//Create a Project </br>
+django-admin startproject PROJECTNAME </br>
+
 
